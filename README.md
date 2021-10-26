@@ -39,6 +39,6 @@ Perguntas obrigatórias:
  
  IDE - PyCharm
 
-<img src = "img/olimpiadas.png" width = "350px">
+<img src = "img/olimpiadas.png" width = "500px">
 
 [**Clique Aqui**](#) para ver a apresentação do projeto!
