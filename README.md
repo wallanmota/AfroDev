@@ -38,3 +38,7 @@ Perguntas obrigatórias:
  Nota: alterar a linha 59/60 do arquivo **functions.py** de acordo com o OS utilizado.
  
  IDE - PyCharm
+
+<img src = "img/olimpiadas.png" width = "350px">
+
+[**Clique Aqui**](#) para ver a apresentação do projeto!
