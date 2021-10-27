@@ -41,4 +41,4 @@ Perguntas obrigatórias:
 
 <img src = "img/olimpiadas.png" width = "500px">
 
-[**Clique Aqui**](#) para ver a apresentação do projeto!
+[**Clique Aqui**](https://youtu.be/a48sDHVXCi4) para ver a apresentação do projeto!
